@@ -1,6 +1,7 @@
    #Olá eu sou jeferson Rocha garcia
    
    📚 Hoje atualmente estudo tecnologias web por conta própria de forma pela internet.
+   Estou em formação em técnico em desenvolvimento de sistemas(Unitter)
    🤓Estudo tecnologias como html, css e javascript 
    📧Contacte-me por email: jefersonrochagarcia@gmail.com
    😄 Pronouns: ele/dele
